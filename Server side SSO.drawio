@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T07:04:17.939Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="BIOwazGenlHUSkMevJmn" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T07:05:50.134Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="T_hpmT70Uyqq0RrHVEuU" version="22.0.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="940" dy="713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -72,14 +72,8 @@
         <mxCell id="Hp_decmUxXTqxWQQt_08-5" value="Returns Access&lt;br&gt;Token" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="382.5" y="470" width="125" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Hp_decmUxXTqxWQQt_08-7" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="440" y="418" width="40" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Hp_decmUxXTqxWQQt_08-10" value="Returns Failed Message" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="320" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hp_decmUxXTqxWQQt_08-12" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="327" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hp_decmUxXTqxWQQt_08-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="Hp_decmUxXTqxWQQt_08-15" target="Hp_decmUxXTqxWQQt_08-21">
           <mxGeometry relative="1" as="geometry" />
@@ -89,9 +83,6 @@
         </mxCell>
         <mxCell id="Hp_decmUxXTqxWQQt_08-18" value="Returns Failed Message" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="615" y="605" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Hp_decmUxXTqxWQQt_08-20" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="540" y="605" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Hp_decmUxXTqxWQQt_08-21" value="Response will Trigger&lt;br&gt;MS TEAMS" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=0;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="180" y="450" width="80" height="80" as="geometry" />
@@ -108,8 +99,17 @@
         <mxCell id="Hp_decmUxXTqxWQQt_08-24" value="Token will Authorise Microsoft Graph APIs" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="365" y="570" width="160" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="Hp_decmUxXTqxWQQt_08-32" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="300" y="605" width="40" height="30" as="geometry" />
+        <mxCell id="Hp_decmUxXTqxWQQt_08-36" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp_decmUxXTqxWQQt_08-37" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="440" y="428" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp_decmUxXTqxWQQt_08-38" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="550" y="608" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hp_decmUxXTqxWQQt_08-39" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="300" y="604" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
