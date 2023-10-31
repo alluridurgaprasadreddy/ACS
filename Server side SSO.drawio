@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T09:36:18.565Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="1ZYUxb5PmazDXzfWXD3K" version="22.0.8" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-10-31T09:43:12.938Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="SXRdzhYo8xnRvPMiGBm2" version="22.0.8" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="940" dy="1688" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
         <mxCell id="67sHLlyTRyJTOVlGl5xd-44" value="Token will Authorise Microsoft Graph APIs and perform CRUD operations" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="617.5" y="87.5" width="110" height="133" as="geometry" />
         </mxCell>
-        <mxCell id="67sHLlyTRyJTOVlGl5xd-47" value="Returns Response" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="67sHLlyTRyJTOVlGl5xd-47" value="Returns MS Graph &lt;br&gt;Response" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="612.5" y="-35" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="67sHLlyTRyJTOVlGl5xd-51" value="Fails" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -90,6 +90,12 @@
         </mxCell>
         <mxCell id="67sHLlyTRyJTOVlGl5xd-52" value="Success" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="680" y="55" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="67sHLlyTRyJTOVlGl5xd-53" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="95" y="218" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="67sHLlyTRyJTOVlGl5xd-54" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="220" y="218" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
